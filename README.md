@@ -1,2 +1,7 @@
-# UnlockManager
-A Unlock Tool For STRAFTAT
+| Feature           | Description                                               |
+| ----------------- | --------------------------------------------------------- |
+| ✅ Cosmetics       | Automatically marked as acquired                          |
+| ✅ Lobby visuals   | DLC visuals are always shown                              |
+| ✅ ProgressManager | All progress instances unlocked + max XP                  |
+| ✅ Maps            | All maps unlocked + DLC requirement disabled              |
+| ✅ DLCs            | `ownDlc0` and `ownDlc1` are forced to true                |
