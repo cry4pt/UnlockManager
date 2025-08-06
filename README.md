@@ -1,6 +1,6 @@
 | Feature           | Description                                               |
 | ----------------- | --------------------------------------------------------- |
-| ✅ Cosmetics       | Automatically marked as acquired                          |
+| ✅ Cosmetics       | Automatically marked as unlocked                          |
 | ✅ Lobby visuals   | DLC visuals are always shown                              |
 | ✅ ProgressManager | All progress instances unlocked + max XP                  |
 | ✅ Maps            | All maps unlocked + DLC requirement disabled              |
