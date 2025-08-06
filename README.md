@@ -6,4 +6,4 @@
 | ✅ Maps            | All maps unlocked + DLC requirement disabled              |
 | ✅ DLCs            | `ownDlc0` and `ownDlc1` are forced to true                |
 | ✅ Stats           | All stats are maxed out                                   |
-| ✅ Achievement Unlocker| All stats are maxed out                               |
+| ✅ Achievement Unlocker| All achievements gets unlocked instantly                               |
