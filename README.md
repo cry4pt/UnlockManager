@@ -4,6 +4,6 @@
 | ✅ Stats           | All stats are maxed out                                   |
 | ✅ Cosmetics       | Automatically marked as unlocked                          |
 | ✅ Maps            | All maps unlocked + DLC requirement disabled              |
-| ✅ ProgressManager | All progress instances unlocked + max XP                  |
+| ✅ Progress        | All progress unlocked + max XP                            |
 | ✅ Lobby visuals   | DLC visuals are always shown                              |
 | ✅ Achievement Unlocker| All achievements gets unlocked instantly               
